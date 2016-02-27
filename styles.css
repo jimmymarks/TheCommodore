@@ -8,7 +8,7 @@ body {
   width: 55%;
   margin: 0 auto;
 }
-h1, h2, h3 {font-weight:}
+h1, h2, h3 {font-weight: 400;}
 h1 {font-size: 3rem; font-family: 'Bitter', sans-serif; font-weight: 700; color: white; text-shadow: -10px 12px 10px rgba(0,0,0,.75);}
 h2 {font-size: 2rem; font-family: 'Archivo Narrow'; line-height: 1.3em; color: white; text-shadow: -10px 12px 10px rgba(0,0,0,.75);}
 h3 {font-size: 2rem; font-family: 'Special Elite', cursive; }
