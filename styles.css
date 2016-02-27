@@ -11,7 +11,7 @@ body {
   .blotter {background-image: url(royal_typewriter_comm2.jpg); background-position: center center;background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-color: #141B41; top: 0; height: 40%; width: 92%; padding: 0 4%; float: left; border-bottom: 10px double #F6AE2D; text-align: center;}
   .blotter p {font-family: 'Archivo Narrow'; color: #141B41; margin: 1.85em 0;}
   .blotter .btn {font-family: 'Archivo Narrow'; background-color: #F6AE2D; border-radius: 10px; text-decoration: none; color: #141B41; padding: .75em; }
-  .explainer { visibility: visible; display: block; background-color: rgba(44,44,44,1);; padding: 0 10% 3% 10%; float: left; font-family: Helvetica, sans-serif; color: rgba(222,222,222,1);}
+  .explainer { visibility: visible; display: block; background-color: rgba(44,44,44,1); padding: 0 10% 3% 10%; float: left; font-family: Helvetica, sans-serif; color: rgba(222,222,222,1);}
   .explainer h3 { font-size: 3rem; font-family: 'Archivo Narrow'; text-align: center; line-height: 1em;}
   .explainer a {color: #0090C1;}
   .explainer small {font-size: .88rem;}
@@ -19,7 +19,7 @@ body {
   .words {width: 95%; margin: 0 auto;}
   .words p{font-size: 1.75rem;}
   .hide {visibility: hidden; display: none;}
-@media (min-width: 48rem) {
+@media (min-width: 40rem) {
   h1 {font-size: 3.5rem;}
   h2 {font-size: 2.5rem;}
   h3 {font-size: 2rem; font-family: 'Special Elite', cursive; }
