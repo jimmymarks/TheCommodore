@@ -4,7 +4,6 @@ body {
   padding: 0;
   margin: 0;
 }
-@media (min-width: 100px) and (max-width: 319px){
   h1, h2, h3 {font-weight: 400;}
   h1 {font-size: 5rem; font-family: 'Bitter', sans-serif; font-weight: 700; color: white; text-shadow: -10px 12px 10px rgba(0,0,0,.75);}
   h2 {font-size: 4.25rem; font-family: 'Archivo Narrow'; line-height: 1.3em; color: white; text-shadow: -10px 12px 10px rgba(0,0,0,.75);}
@@ -20,7 +19,6 @@ body {
   .words {width: 85%; margin: 0 auto;}
   .words p{font-size: 1.75rem;}
   .hide {visibility: hidden; display: none;}
-}
 @media (min-width: 320px) and (max-width: 768px){
   h1 {font-size: 3.5rem;}
   h2 {font-size: 2.5rem;}
