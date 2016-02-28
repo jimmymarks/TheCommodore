@@ -19,14 +19,14 @@ body {
   .words {width: 95%; margin: 0 auto;}
   .words p{font-size: 1.75em;}
   .hide {visibility: hidden; display: none;}
-@media (min-width: 40em) {
+@media (min-width: 550px) {
   h1 {font-size: 3.25em;}
   h2 {font-size: 2.45em;}
   h3 {font-size: 2em; font-family: 'Special Elite', cursive; }
   .words p{font-size: 1.45em;}
   .blotter {top: 0; height: 50%;}
 }
-@media (min-width: 60em){
+@media (min-width: 1000px) {
   h1 {font-size: 3.15em;}
   h2 {font-size: 1.5em;}
   h3 {font-size: 1.8em; font-family: 'Special Elite', cursive; }
